@@ -1,0 +1,10 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    color: red;
+    font-size: 60px;
+    font-family: "Arial";
+    text-align: center;
+}
